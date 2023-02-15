@@ -2,7 +2,7 @@
 
 🌱 Rustling in development
 
-[![codewars](https://www.codewars.com/users/gilbertgeorge)](https://www.codewars.com/users/gilbertgeorge/badges/small)
+[<img alt="codewars" src="https://www.codewars.com/users/gilbertgeorge/badges/small" />](https://www.codewars.com/users/gilbertgeorge)
 
 <!--
 **gilbertgeorge/gilbertgeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![codewars](https://www.codewars.com/users/gilbertgeorge/badges/small)
+https://www.codewars.com/users/gilbertgeorge
 -->
