@@ -2,7 +2,7 @@
 
 🌱 Rustling in development
 
-![codewars](https://www.codewars.com/users/gilbertgeorge/badges/small)
+[![codewars](https://www.codewars.com/users/gilbertgeorge)](https://www.codewars.com/users/gilbertgeorge/badges/small)
 
 <!--
 **gilbertgeorge/gilbertgeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
