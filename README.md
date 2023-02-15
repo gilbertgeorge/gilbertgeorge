@@ -1,4 +1,4 @@
-### Hi there 👋 I'm George
+### Hi there, I'm George 👋
 
 🌱 Rustling in development
 
