@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm George
-- :crab: Rustling in development
+
+🌱 Rustling in development
 
 ![codewars](https://www.codewars.com/users/gilbertgeorge/badges/small)
 
