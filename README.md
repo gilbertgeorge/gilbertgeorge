@@ -1,6 +1,6 @@
 ### Hi there, I'm George 👋
 
-🦀 Rustling in development
+🦀 Rustacean in development
 
 [<img alt="codewars" src="https://www.codewars.com/users/gilbertgeorge/badges/small" />](https://www.codewars.com/users/gilbertgeorge)
 
