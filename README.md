@@ -1,6 +1,8 @@
 ### Hi there, I'm George 👋
 
 🦀 Rustacean in development
+🌱 Always learning
+📧 george@grgilbert.com
 
 [<img alt="codewars" src="https://www.codewars.com/users/gilbertgeorge/badges/small" />](https://www.codewars.com/users/gilbertgeorge)
 
